@@ -1,0 +1,34 @@
+{
+  "run": [
+    {
+      "filePath": "/test2-2/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 6381542,
+        "displayName": "New Web Application 8"
+      }
+    },
+    {
+      "filePath": "/d03_test/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 2605893,
+        "displayName": "New Web Application 4"
+      }
+    }
+  ]
+}
